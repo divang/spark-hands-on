@@ -1,5 +1,8 @@
 Michael, 29
 Andy, 30
+Peter, 30
+Moore, 30
 Justin, 18
 Jon, 13
 Lilly, 14
+Roy, 14
